@@ -1,0 +1,21 @@
+[submodule "fzf.vim"]
+	path = fzf.vim
+	url = https://github.com/junegunn/fzf.vim
+[submodule "vim-surround"]
+	path = vim-surround
+	url = https://github.com/tpope/vim-surround
+[submodule "vim-sensible"]
+	path = vim-sensible
+	url = https://github.com/tpope/vim-sensible
+[submodule "vim-polyglot"]
+	path = vim-polyglot
+	url = https://github.com/vim-polyglot/vim-polyglot
+[submodule "tokyonight-vim"]
+	path = tokyonight-vim
+	url = https://github.com/lhqdecimy/tokyonight-vim
+[submodule "tagbar"]
+	path = tagbar
+	url = https://github.com/preservim/tagbar
+[submodule "rust.vim"]
+	path = rust.vim
+	url = https://github.com/rust-lang/rust.vim
